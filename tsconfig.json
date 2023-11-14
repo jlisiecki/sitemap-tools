@@ -28,6 +28,7 @@
     "useDefineForClassFields": true
   },
   "include": [
+    "src/index.ts",
     "src/**/*",
     "reset.d.ts",
     ".eslintrc.js",
