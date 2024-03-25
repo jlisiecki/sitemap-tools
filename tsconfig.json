@@ -34,6 +34,7 @@
     "prettier.config.js",
     "reset.d.ts",
     "src/**/*",
-    "src/index.ts"
+    "src/index.ts",
+    "tailwind.config.js"
   ]
 }
