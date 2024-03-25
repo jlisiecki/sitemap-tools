@@ -28,11 +28,12 @@
     "useDefineForClassFields": true
   },
   "include": [
-    "src/index.ts",
-    "src/**/*",
-    "reset.d.ts",
     ".eslintrc.js",
+    "forge.config.ts",
+    "postcss.config.js",
     "prettier.config.js",
-    "forge.config.ts"
+    "reset.d.ts",
+    "src/**/*",
+    "src/index.ts"
   ]
 }
